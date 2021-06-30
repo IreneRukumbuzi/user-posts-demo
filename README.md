@@ -10,4 +10,4 @@ and then by clicking on the button, you will get a list of the user 's posts
 
 #### Github Pages
 
-The app is deployed on github pages via this link ``
+The app is deployed on github pages via this link `https://irenerukumbuzi.github.io/user-posts-demo/`
