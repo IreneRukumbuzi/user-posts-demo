@@ -1,0 +1,40 @@
+body {
+  height: max-content;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+#users {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#posts {
+}
+
+.user-li {
+  margin: 20px;
+  border: 1px solid green;
+  padding: 5px 20px;
+}
+
+.posts-li {
+  margin: 20px;
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  color: white;
+  background-color: #2185d0;
+  padding: 10px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
