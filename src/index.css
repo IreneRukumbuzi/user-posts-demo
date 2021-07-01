@@ -1,7 +1,13 @@
 body {
-  height: max-content;
-  box-sizing: border-box;
-  font-size: 20px;
+  margin: 0;
+  background-color: #eaeaea;
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url("./assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #users {
